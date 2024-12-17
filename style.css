@@ -31,7 +31,6 @@ header img {
     display: block;
     aspect-ratio: 1;
     border-radius: 50%;
-    filter: grayscale(1);
     margin: 1rem auto;
 }
 
